@@ -9,4 +9,4 @@ Bank home loan lead identifier model uses Natural Language Processing to identif
 * Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found here <>
+The product can be found here <https://aws.amazon.com/marketplace/pp/prodview-4s6otziw2tbe6>
